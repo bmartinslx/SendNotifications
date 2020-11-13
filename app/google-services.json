@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998902202223",
+    "firebase_url": "https://send-notifications-8683d.firebaseio.com",
+    "project_id": "send-notifications-8683d",
+    "storage_bucket": "send-notifications-8683d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998902202223:android:4a3588f965355b2ddab29a",
+        "android_client_info": {
+          "package_name": "com.example.sendnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998902202223-grfs0uavfnf0og92g4hk72lrtpggn1c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOYC_hR-gxKRHEuunkzcVDdZ6pSin6Qk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998902202223-grfs0uavfnf0og92g4hk72lrtpggn1c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
